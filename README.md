@@ -11,7 +11,7 @@ Requires `Allow Running Scripts` option to be enabled in Shortcuts app settings.
 2. Open iCloud link and press **Add Shortcut**.
 
 # Known bugs
-- Shortcut name appears as 'Shortcut' if user ran **Unsigncuts for macOS** via Share Sheet.
+- Shortcut name appears as 'Shortcut' if **Unsigncuts for macOS** is ran from Share Sheet.
    
 # Source
 - [Shortcut Source Helper](https://routinehub.co/shortcut/10060/) ([gluebyte](https://routinehub.co/user/gluebyte))
