@@ -7,8 +7,8 @@ Requires `Allow Running Scripts` option to be enabled in Shortcuts app settings.
 
 
 # Install
-1. Go to [Releases](https://github.com/Dr-Sauce/unsigncuts/releases/latest).
-2. Open iCloud link and press **Add Shortcut**.
+1. Go to [Releases](https://github.com/Dr-Sauce/unsigncuts/releases/latest). Open iCloud link.
+2. Press **Add Shortcut**.
 
 # Known bugs
 - Shortcut name appears as 'Shortcut' if **Unsigncuts for macOS** is ran from Share Sheet.
