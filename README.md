@@ -8,6 +8,8 @@ Import unsigned shortcut files.
 1. Go to [Releases](https://github.com/Dr-Sauce/unsigncuts/releases/latest).
 2. Open iCloud link and press **Add Shortcut**.
 
+# Known bugs
+- Shortcut name appears as 'Shortcut' if user ran **Unsigncuts for macOS** via Share Sheet.
    
 # Source
 - [Shortcut Source Helper](https://routinehub.co/shortcut/10060/) ([gluebyte](https://routinehub.co/user/gluebyte))
