@@ -1,2 +1,15 @@
-# Unsigncuts
-Import unsigned shortcut files
+# Unsigncuts for macOS
+Import unsigned shortcut files.
+
+<img width="100" alt="${f}" src="https://github.com/user-attachments/assets/1c438eff-a817-40d4-b03b-feaab20ddf2b" />
+
+
+# Install
+1. Go to [Releases](https://github.com/Dr-Sauce/unsigncuts/releases/latest).
+2. Open iCloud link and press **Add Shortcut**.
+
+   
+# Source
+- [Shortcut Source Helper](https://routinehub.co/shortcut/10060/) ([gluebyte](https://routinehub.co/user/gluebyte))
+
+- [Shortcut Updater](https://github.com/dr-sauce/shortcutupdater) ([Dr-Sauce](https://github.com/dr-sauce))
