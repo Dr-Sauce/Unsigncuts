@@ -1,5 +1,5 @@
 # Unsigncuts for macOS
-The macOS version of [Unsigncuts](https://havoc.app/package/unsigncuts). Import unsigned shortcut files.
+The macOS version of [Unsigncuts](https://havoc.app/package/unsigncuts). Import unsigned shortcut files (on macOS).
 
 Requires `Allow Running Scripts` option to be enabled in Shortcuts app settings.
 
