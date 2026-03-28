@@ -1,5 +1,5 @@
-# Unsigncuts for macOS
-Import unsigned shortcut files. (The macOS version of [Unsigncuts](https://havoc.app/package/unsigncuts).)
+# [Unsigncuts](https://havoc.app/package/unsigncuts) for macOS
+Import unsigned shortcut files.
 
 Requires `Allow Running Scripts` option to be enabled in Shortcuts app settings.
 
@@ -14,8 +14,9 @@ Requires `Allow Running Scripts` option to be enabled in Shortcuts app settings.
 1. Go to [Releases](https://github.com/Dr-Sauce/unsigncuts/releases/latest). Open iCloud link.
 2. Press **Add Shortcut**.
 
-# Known bugs
-- Shortcut name appears as 'Shortcut' if **Unsigncuts for macOS** is ran from Share Sheet.
+# Known bug
+- When importing a unsigned shortcut file from Share Sheet, Shortcut name appears as 'Shortcut'.
+- Saving a shortcut as an unsigned shortcut file via Share Sheet doesn't work.
    
 # Source
 - [Shortcut Source Helper](https://routinehub.co/shortcut/10060/) ([gluebyte](https://routinehub.co/user/gluebyte))
