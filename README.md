@@ -14,7 +14,7 @@ Requires `Allow Running Scripts` option to be enabled in Shortcuts app settings.
 1. Go to [Releases](https://github.com/Dr-Sauce/unsigncuts/releases/latest). Open iCloud link.
 2. Press **Add Shortcut**.
 
-# Known bug
+# Known bugs
 - When importing a unsigned shortcut file from Share Sheet, Shortcut name appears as 'Shortcut'.
 - Saving a shortcut as an unsigned shortcut file via Share Sheet doesn't work.
    
